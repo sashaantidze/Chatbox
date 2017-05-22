@@ -41,7 +41,8 @@ CREATE TABLE `shouts` (
 INSERT INTO `shouts` (`id`, `user`, `messege`, `time`, `remote_ip_addr`) VALUES
 (28, 'Jason', 'Wazuuuuuuup?', '07:17:28 pm', '::1'),
 (29, 'Creid', 'Wazaaaaaaaaaaaaaaaaaaap?', '07:17:46 pm', '::1'),
-(30, 'Kurt', 'wazuzuzuzuzuzuzzzzzzzzzzzzzzzzzzzzp?', '07:18:02 pm', '::1');
+(30, 'Kurt', 'wazuzuzuzuzuzuzzzzzzzzzzzzzzzzzzzzp?', '07:18:02 pm', '::1'),
+(30, 'jack', 'not much', '05:46:31 am', '::1');
 
 --
 -- Indexes for dumped tables
